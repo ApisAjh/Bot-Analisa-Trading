@@ -25,7 +25,6 @@ Claude), dan bisa juga menganalisa symbol lewat perintah teks `/analyze`.
 ## Struktur project
 
 ```
-trading-ai-bot/
 ├── api/
 │   └── webhook.py        # entrypoint Vercel: POST /api/webhook
 ├── bot/
